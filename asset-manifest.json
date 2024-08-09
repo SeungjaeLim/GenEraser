@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GenEraser/static/css/main.f855e6bc.css",
+    "main.js": "/GenEraser/static/js/main.881387c8.js",
+    "static/js/453.e5407da2.chunk.js": "/GenEraser/static/js/453.e5407da2.chunk.js",
+    "index.html": "/GenEraser/index.html",
+    "main.f855e6bc.css.map": "/GenEraser/static/css/main.f855e6bc.css.map",
+    "main.881387c8.js.map": "/GenEraser/static/js/main.881387c8.js.map",
+    "453.e5407da2.chunk.js.map": "/GenEraser/static/js/453.e5407da2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.881387c8.js"
+  ]
+}
