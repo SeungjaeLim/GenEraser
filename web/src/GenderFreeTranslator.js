@@ -44,10 +44,12 @@ const GenderFreeTranslator = () => {
 
     return (
         <ThemeProvider theme={theme}>
-            <Box sx={{ padding: '50px' }}>
-                <Grid container alignItems="center" justifyContent="space-between">
-                    {/* Community Selection */}
-                    <Grid item xs={4} container alignItems="center">
+            <Box sx={{ padding: '20px' }}>
+                <Grid container spacing={2} direction="column" alignItems="center">
+                    
+
+                    {/* Community Selection on the right */}
+                    <Grid item xs={12} sm={4} container justifyContent="flex-end" alignItems="center" style={{ marginTop: '20px' }}>
                         <FormControl variant="outlined" style={{ minWidth: 120 }}>
                             <InputLabel>Community</InputLabel>
                             <Select
@@ -61,14 +63,10 @@ const GenderFreeTranslator = () => {
                             </Select>
                         </FormControl>
                     </Grid>
-
-                    {/* Logo in the middle */}
-                    <Grid item xs={4} container justifyContent="center">
+                    {/* Logo */}
+                    <Grid item xs={12} sm={4} container justifyContent="center">
                         <img src={`${process.env.PUBLIC_URL}/assets/logo.png`} alt="Logo" style={{ maxHeight: '100px' }} />
                     </Grid>
-
-                    {/* Empty Grid item to balance the layout */}
-                    <Grid item xs={4} />
                 </Grid>
 
                 <Grid container spacing={4} justifyContent="center" style={{ marginTop: '20px' }}>
