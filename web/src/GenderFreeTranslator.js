@@ -23,7 +23,7 @@ const GenderFreeTranslator = () => {
 
     const handleTranslate = async () => {
         try {
-            const response = await axios.post('http://localhost:8000/api/v1/translate', {
+            const response = await axios.post('https://5a8e-2001-2d8-6937-8f75-299e-fb06-bf3f-9eae.ngrok-free.app/api/v1/translate', {
                 input_text: inputText
             });
             setOutputText(response.data.strings);
