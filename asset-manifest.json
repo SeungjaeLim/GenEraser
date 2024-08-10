@@ -1,15 +1,14 @@
 {
   "files": {
-    "main.css": "/GenEraser/static/css/main.f855e6bc.css",
-    "main.js": "/GenEraser/static/js/main.881387c8.js",
-    "static/js/453.e5407da2.chunk.js": "/GenEraser/static/js/453.e5407da2.chunk.js",
+    "main.css": "/GenEraser/static/css/main.5625f1d0.css",
+    "main.js": "/GenEraser/static/js/main.5ca53ac7.js",
+    "static/media/Pretendard.otf": "/GenEraser/static/media/Pretendard.4b3283bc0e29a9c97c11.otf",
     "index.html": "/GenEraser/index.html",
-    "main.f855e6bc.css.map": "/GenEraser/static/css/main.f855e6bc.css.map",
-    "main.881387c8.js.map": "/GenEraser/static/js/main.881387c8.js.map",
-    "453.e5407da2.chunk.js.map": "/GenEraser/static/js/453.e5407da2.chunk.js.map"
+    "main.5625f1d0.css.map": "/GenEraser/static/css/main.5625f1d0.css.map",
+    "main.5ca53ac7.js.map": "/GenEraser/static/js/main.5ca53ac7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.881387c8.js"
+    "static/css/main.5625f1d0.css",
+    "static/js/main.5ca53ac7.js"
   ]
 }
