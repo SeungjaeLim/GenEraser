@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/GenEraser/static/css/main.5625f1d0.css",
-    "main.js": "/GenEraser/static/js/main.71a49558.js",
+    "main.js": "/GenEraser/static/js/main.a998897b.js",
     "static/media/Pretendard.otf": "/GenEraser/static/media/Pretendard.4b3283bc0e29a9c97c11.otf",
     "index.html": "/GenEraser/index.html",
     "main.5625f1d0.css.map": "/GenEraser/static/css/main.5625f1d0.css.map",
-    "main.71a49558.js.map": "/GenEraser/static/js/main.71a49558.js.map"
+    "main.a998897b.js.map": "/GenEraser/static/js/main.a998897b.js.map"
   },
   "entrypoints": [
     "static/css/main.5625f1d0.css",
-    "static/js/main.71a49558.js"
+    "static/js/main.a998897b.js"
   ]
 }
